@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author moai
+ *
+ */
+module ramasGit {
+}
